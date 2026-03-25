@@ -1,0 +1,51 @@
+*{
+	 		padding: 0px;
+	 		margin: 0px;
+	 	}
+	 	.bienvenida{ 
+          color: blue;
+          font-size: 35px;
+          font-family: arial;
+          background-color: aqua;
+	 	}
+      #biografia{ 
+         color: green;
+         font-size: 40px;
+         font-family: Calibri;
+         text-decoration: underline;
+         text-align: justify;
+         border: 50px solid black;
+         word-spacing: 50px;
+      }
+        #redsocial{
+           width:100px;
+           height: 100px;
+        }
+        .portada{
+           width: 100%;
+
+        }
+        .titulo{
+           background-color:yellow;
+           letter-spacing: 40px;
+           text-transform: capitalize;
+           text-shadow: 4px 4px red;
+        }
+        .piedepagina{
+        	background-color: blue;
+        	}
+        .menu{
+         border: 2px solid red;
+        	background-color: black;
+         text-align: center;
+        	}
+        a{	
+         color:white;
+         font-size: 25px;
+         font-family: arial black;
+         text-decoration: none;
+        }	
+        .videos{
+         border: 2px solid red;
+         text-align: center;
+         }
